@@ -91,7 +91,7 @@ docker compose down
 
 The screenshot below shows the four services running in Docker Desktop with their published ports.
 
-![Docker Desktop showing the microservices running](screenshots/docker-desktop-containers.png)
+![Docker Desktop showing the microservices running](screenshots/1.9%20Dockerdesktop%20view%20of%20containers%20running.png)
 
 ## Project layout
 
@@ -115,6 +115,6 @@ Microservices-Task/
 │       ├── app.js
 │       └── package.json
 ├── screenshots/
-│   └── docker-desktop-containers.png
+│   └── 1.9 Dockerdesktop view of containers running.png
 └── docker-compose.yml
 ```
