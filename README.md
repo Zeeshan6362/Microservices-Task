@@ -114,7 +114,6 @@ Microservices-Task/
 │       ├── Dockerfile
 │       ├── app.js
 │       └── package.json
-├── screenshots/
-│   └── 1.9 Dockerdesktop view of containers running.png
+├── screenshots/  # Build and testing evidence
 └── docker-compose.yml
 ```
